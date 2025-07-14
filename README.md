@@ -1,1 +1,2 @@
 When main is run, the prediction is made based on model1.h5. When you run it, whichever model is best, you can save it by adding your own best model before the .save function in the "model1.save("model1.h5")" function. This will help you get more accurate results.
+The aim of the study is to present how much scaling affects our dataset and how much better NN models perform than classical ML models.
